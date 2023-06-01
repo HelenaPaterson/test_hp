@@ -47,18 +47,18 @@ The "pink" and "green" colours from the [psyteachr_colours()]() function are dis
 In plots, add secondary indicators in addition to colour, such as text labels or shapes.
 
 <div class="figure" style="text-align: center">
-<img src="01-intro_files/figure-epub3/plot-text-labels-1.png" alt="Text labels supplement colour information." width="100%" />
+<img src="01-intro_files/figure-html/plot-text-labels-1.png" alt="Text labels supplement colour information." width="100%" />
 <p class="caption">(\#fig:plot-text-labels)Text labels supplement colour information.</p>
 </div>
 
 
 <div class="figure" style="text-align: center">
-<img src="01-intro_files/figure-epub3/plot-text-labels-facet-1.png" alt="Facet labels and redundant colour information." width="100%" />
+<img src="01-intro_files/figure-html/plot-text-labels-facet-1.png" alt="Facet labels and redundant colour information." width="100%" />
 <p class="caption">(\#fig:plot-text-labels-facet)Facet labels and redundant colour information.</p>
 </div>
 
 <div class="figure" style="text-align: center">
-<img src="01-intro_files/figure-epub3/plot-shapes-1.png" alt="Supplement point colours with shapes." width="100%" />
+<img src="01-intro_files/figure-html/plot-shapes-1.png" alt="Supplement point colours with shapes." width="100%" />
 <p class="caption">(\#fig:plot-shapes)Supplement point colours with shapes.</p>
 </div>
 
@@ -71,7 +71,7 @@ If you want to suggest an in-class exercise that uses data from the students, ma
 * Pet owners/non-pet owners
 * Normally does/doesn't wear glasses
 * Can/can't juggle
-* Native/non-native English speakers
+* First/second language English speakers
 * Born in Scotland/elsewhere
 
 

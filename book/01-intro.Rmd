@@ -100,7 +100,7 @@ If you want to suggest an in-class exercise that uses data from the students, ma
 * Pet owners/non-pet owners
 * Normally does/doesn't wear glasses
 * Can/can't juggle
-* Native/non-native English speakers
+* First/second language English speakers
 * Born in Scotland/elsewhere
 
 

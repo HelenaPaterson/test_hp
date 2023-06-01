@@ -8,9 +8,7 @@ If you need to link to a definition, but are using a different form of the word,
 
 ```{r glossary-example, results='asis'}
 glossary("data type", 
-         display = "Data Types", 
-         def = "My custom definition of data types", 
-         link = FALSE)
+         def = "My custom definition of data types")
 ```
 
 You can add a glossary table to the end of a chapter with the following code. It creates a table of all terms used in that chapter previous to the `glossary_table()` function. It uses `kableExtra()`, so if you use it in a code chunk, set `results='asis'`.
